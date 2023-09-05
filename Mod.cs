@@ -10,6 +10,7 @@ namespace ExampleModNS
         public override void Ready()
         {
             Logger.Log("Ready!");
+            WorldManager.instance.GameDataLoader.AddCardToSetCardBag(SetCardBagType.CookingIdea, "examplemod_blueprint_golden_berry", 1);
         }
     }
 }
