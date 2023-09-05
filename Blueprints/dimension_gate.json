@@ -1,0 +1,13 @@
+{
+    "id": "dimension_gate",
+    "nameTerm": "dimension_gate_name",
+    "group": "Location",
+    "subprints": [
+        {
+            "RequiredCards": "magic_dust, magic_dust, iron_bar, iron_bar, gold_bar, cane_sugar",
+            "ResultCard": "dimension_gate",
+            "Time": 45,
+            "StatusTerm": "idea_dimension_gate_status"
+        }
+    ]
+}
