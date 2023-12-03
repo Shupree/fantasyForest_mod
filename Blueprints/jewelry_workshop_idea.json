@@ -1,6 +1,6 @@
 {
-    "id": "shupree_jewelry_workshop",
-    "nameTerm": "shupree_blueprint_jewelry_workshop",
+    "id": "shupree_blueprint_jewelry_workshop",
+    "nameTerm": "shupree_blueprint_jewelry_workshop_name",
     "group": "Building",
     "subprints": [
         {

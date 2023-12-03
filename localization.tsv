@@ -1,4 +1,21 @@
-Term	Notes	English
-dimension_gate_name		Dimension Gate
-dimension_gate_description		Through this door, you can interact with a fantasy world!
-idea_dimension_status		All you need to make this gate is magic and ... a little sweetness!
+Term	Notes	English	Korean
+shupree_dimension_gate_name		Dimension Gate	이계 게이트
+shupree_dimension_gate_description		It feels like a mysterious yet sweet scent.	신비로우면서 달콤한 향이 느껴지는 듯한 기분입니다.
+shupree_idea_dimension_status		Connecting another world...	이세계에 접촉하는 중...
+shupree_blueprint_dimension_gate_name		All you need to make this gate is magic and ... a little sweetness!	당신이 이 게이트를 열기 위해서 필요한 건 마법과 약간의 ... 설탕인 거 같군요!
+shupree_fairy_name		Fairy	요정
+shupree_shupree_fairy_description		It is a mysterious creature that came from another world, attracted by a sweet smell.	달콤한 냄새에 이끌려 이세계에서 넘어온 신비롭고 생물입니다.
+shupree_idea_fairy_status		Tempting with a sweet scent...	달콤한 향기로 유혹 중...
+shupree_blueprint_fairy_name		Let's catch a fairy!	요정을 낚아봅시다!
+shupree_jewel_berry_name		Jewel Berry	보석 베리
+shupree_jewel_berry_description		It is a berry imbued with a fairy. There are jewels encrusted on the outside of the berry, and it looks like your teeth will break if you eat them.	요정이 깃든 열매입니다. 열매 겉부분에 보석이 박혀있는데 먹다간 이빨이 부러질 것 같습니다.
+shupree_blueprint_jewel_berry_name		The berry becomes possessed by a fairy. I think it would be a bit uncomfortable to eat berry that has a fairy in it.	딸기에 요정이 깃들게 됩니다. 아무래도 요정이 깃든 과일은 먹기 좀 거북할 거 같습니다.
+shupree_idea_jewel_berry_status		A fairy is possessed by a berry...	요정이 딸기에 깃드는 중...
+shupree_crystal_name		Crystal	수정
+shupree_jcrystal_description		This is a truly beautifully shining crystal.	정말 아름답게 빛나는 수정입니다.
+shupree_blueprint_crystal_name		Process gem berries into crystals. The fairy that resided in the strawberry completes its mission and comes out.	보석 베리를 수정으로 가공합니다. 딸기에 깃들었던 요정은 임무를 마치고 밖으로 나옵니다.
+shupree_idea_crystal_status		Processing gem berries...	보석 베리를 가공하는 중...
+shupree_jewelry_workshop_name		Jewelry Workshop	보석 세공소
+shupree_jewelry_workshop_description		This is a workshop where jewels are engraved.	보석을 세공하는 작업장입니다.
+shupree_blueprint_jewelry_workshop_name		Let's create a jewelry workshop!	보석 세공소를 만들어 봅시다!
+shupree_idea_jewelry_workshop_status		Building...	건물을 짓는 중...

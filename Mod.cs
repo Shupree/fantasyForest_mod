@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace FairyTownModNS
 {
-    public class ExampleMod : Mod
+    public class FairyTownMod : Mod
     {
         public override void Ready()
         {

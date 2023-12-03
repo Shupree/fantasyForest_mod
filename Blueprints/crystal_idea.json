@@ -1,6 +1,6 @@
 {
-    "id": "shupree_crystal",
-    "nameTerm": "shupree_blueprint_crystal",
+    "id": "shupree_blueprint_crystal",
+    "nameTerm": "shupree_blueprint_crystal_name",
     "group": "Resources",
     "subprints": [
         {
