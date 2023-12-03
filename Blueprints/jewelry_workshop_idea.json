@@ -1,0 +1,14 @@
+{
+    "id": "shupree_jewelry_workshop",
+    "nameTerm": "shupree_blueprint_jewelry_workshop",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": "crystal, crystal, brick, plank, plank, any_villager",
+            "ResultCard": "jewelry_workshop",
+            "CardsToRemove": "crystal, crystal, plank, plank",
+            "Time": 35,
+            "StatusTerm": "shupree_idea_jewelry_workshop_status"
+        }
+    ]
+}

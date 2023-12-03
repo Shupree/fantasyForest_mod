@@ -1,0 +1,10 @@
+{
+  "id": "shupree_dimension_gate",
+  "nameTerm": "shupree_dimension_gate_name",
+  "descriptionTerm": "shupree_dimension_gate_description",
+  "icon": "dimension_gate.png",
+  "value": 5,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "FairyTownModNS.DimensionGate"
+}

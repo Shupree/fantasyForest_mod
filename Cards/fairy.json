@@ -1,0 +1,14 @@
+{
+    "id": "shupree_fairy",
+    "nameTerm": "shupree_fairy_name",
+    "descriptionTerm": "shupree_fairy_description",
+    "icon": "fairy.png",
+    "value": -1,
+    "type": "Villager",
+    "script": "FairyTownModNS.Fairy",
+    "_MyPalette": {
+      "Color": "##8BE3CA",
+      "Color2": "#C9FDEE",
+      "Icon": "#000000"
+    }
+  }

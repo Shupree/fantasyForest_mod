@@ -1,0 +1,15 @@
+{
+  "id": "shupree_magic_tree",
+  "nameTerm": "shupree_magic_tree_name",
+  "descriptionTerm": "shupree_magic_tree_description",
+  "icon": "magic_tree.png",
+  "value": 6,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "FairyTownModNS.MagicTree",
+  "_MyPalette": {
+    "Color": "##8BE3CA",
+    "Color2": "#C9FDEE",
+    "Icon": "#000000"
+  }
+}

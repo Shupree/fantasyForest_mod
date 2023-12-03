@@ -1,0 +1,14 @@
+{
+    "id": "shupree_fairy",
+    "nameTerm": "shupree_blueprint_fairy_name",
+    "group": "Spawn",
+    "subprints": [
+        {
+            "RequiredCards": "dimension_gate, sugar, berry",
+            "ResultCard": "fairy",
+            "CardsToRemove": "sugar, berry",
+            "Time": 10,
+            "StatusTerm": "shupree_idea_fairy_status"
+        }
+    ]
+}

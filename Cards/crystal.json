@@ -1,0 +1,9 @@
+{
+    "id": "shupree_crystal",
+    "nameTerm": "shupree_crystal_name",
+    "descriptionTerm": "shupree_jcrystal_description",
+    "icon": "crystal.png",
+    "value": 7,
+    "type": "Resources",
+    "script": "Resources"
+  }

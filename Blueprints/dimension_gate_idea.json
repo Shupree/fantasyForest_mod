@@ -1,0 +1,14 @@
+{
+    "id": "shupree_dimension_gate",
+    "nameTerm": "shupree_blueprint_dimension_gate_name",
+    "group": "Building",
+    "subprints": [
+        {
+            "RequiredCards": "magic_dust, magic_dust, iron_bar, iron_bar, gold_bar, sugar",
+            "ResultCard": "shupree_dimension_gate",
+            "CardsToRemove": "magic_dust, magic_dust, iron_bar, iron_bar, gold_bar, sugar",
+            "Time": 45,
+            "StatusTerm": "shupree_idea_dimension_gate_status"
+        }
+    ]
+}

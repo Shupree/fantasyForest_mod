@@ -1,0 +1,15 @@
+{
+  "id": "shupree_jewelry_workshop",
+  "nameTerm": "shupree_jewelry_workshop_name",
+  "descriptionTerm": "shupree_jewelry_workshop_description",
+  "icon": "jewelry_workshop.png",
+  "value": 6,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "FairyTownModNS.JewelryWorkshop",
+  "_MyPalette": {
+    "Color": "##8BE3CA",
+    "Color2": "#C9FDEE",
+    "Icon": "#000000"
+  }
+}

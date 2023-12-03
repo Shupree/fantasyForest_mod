@@ -1,0 +1,14 @@
+{
+    "id": "shupree_jewel_berry",
+    "nameTerm": "shupree_jewel_berry_name",
+    "descriptionTerm": "shupree_jewel_berry_description",
+    "icon": "jewel_berry.png",
+    "value": -1,
+    "type": "Resources",
+    "script": "Resources",
+    "_MyPalette": {
+      "Color": "##8BE3CA",
+      "Color2": "#C9FDEE",
+      "Icon": "#000000"
+    }
+  }

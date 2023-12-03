@@ -1,0 +1,14 @@
+{
+    "id": "shupree_crystal",
+    "nameTerm": "shupree_blueprint_crystal",
+    "group": "Resources",
+    "subprints": [
+        {
+            "RequiredCards": "jewel_berry, any_villager",
+            "ResultCard": "crystal, fairy",
+            "CardsToRemove": "jewel_berry",
+            "Time": 25,
+            "StatusTerm": "shupree_idea_crystal_status"
+        }
+    ]
+}
