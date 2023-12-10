@@ -17,20 +17,20 @@ namespace FairyTownModNS
     public class DimensionGate : CardData
     {
         public override bool CanHaveCardsWhileHasStatus() => true;
-        public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources || CardType.resource.Food;
+        //public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources || CardType.resource.Food;
     
         public override bool CanBePushedBy(CardData otherCard) => false;
     }
 
     public class Fairy : CardData
     {
-        public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources || CardType.resource.Food;
+        //public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources || CardType.resource.Food;
     }
 
     public class JewelryWorkShop : CardData
     {
         public override bool CanHaveCardsWhileHasStatus() => true;
-        public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources;
+        //public override bool CanHaveCard(CardData otherCard) => otherCard.MyCardType == CardType.Resources;
     
         public override bool CanBePushedBy(CardData otherCard) => false;
     }
